@@ -76,7 +76,8 @@ print("Final bias (b):", b)
 Final weight (w): 1.8984326022295357
 Final bias (b): 0.36669053309859806
 ```
-![Uploading image.png…]()
+<img width="1252" height="513" alt="Screenshot 2026-01-27 092058" src="https://github.com/user-attachments/assets/012a4f25-857c-4480-a8f5-8d39fd2ded96" />
+
 
 
 ## Result:
